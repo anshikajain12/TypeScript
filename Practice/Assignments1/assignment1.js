@@ -1,0 +1,10 @@
+"use strict";
+// TODO 1: write a program to add two numbers?
+// TODO 2: How to catch error and solve it?
+// TODO 3: TS configuration file?
+//func define
+// @ts-ignore
+function Sum(a, b) {
+    return a + b;
+}
+console.log(Sum(2, 20));
